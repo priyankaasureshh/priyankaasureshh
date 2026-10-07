@@ -1,5 +1,5 @@
-# 💫 About Me:
-i'm a bachelors in computer application student, who loves making projects as a solution for real world problems<br> 
+#  About Me:
+I'm a bachelors in computer application student, who loves making projects as a solution for real world problems<br> 
 
 
 ## 🌐 Socials:
